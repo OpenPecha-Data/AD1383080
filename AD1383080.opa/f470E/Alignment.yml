@@ -1,0 +1,19 @@
+segment_sources:
+  IB3416CB9:
+    type: origin_type
+    relation: translation
+    language: en
+  I540323AB:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  53b61d4443b24e288f76ac47764fc670:
+    IB3416CB9: 265ab20a792945e681918a8c46d09696
+    I540323AB: 5d1b95a1d3884c5e9f301179614c91ca
+  597bce3a28f345498c00f293988c8ee9:
+    IB3416CB9: eed1adf80d614202a104aa40c2358bf9
+    I540323AB: 39f48c09b3024fd4ba7e3ed84b728bf0
+  34aef2a39c354c7bb4675039c4d81bcb:
+    IB3416CB9: 0ed7674bcfa14410a4f2ab8c20e36a04
+    I540323AB: e2b57a55ad3643f69d8c132fc7468051
